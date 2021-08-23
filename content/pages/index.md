@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: 'Schedule '
+      - label: 'Schedule A Date '
         url: /pricing
         style: primary
       - label: Learn More
