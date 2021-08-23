@@ -49,7 +49,8 @@
                 "url": "/pricing",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "The Online Home of Sera Connor"
     },
     "footer": {
         "logo": "images/classic/logo.svg",
