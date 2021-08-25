@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: The Introduction
-        subtitle: Optional subtitle
+        subtitle: 'One Hour 1 on ! with me! Sera :)'
         title_align: left
         content: |-
           ---
