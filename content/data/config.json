@@ -160,5 +160,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://smiling-tiger-3651e.netlify.app"
+    "domain": "https://smiling-tiger-3651e.netlify.app",
+    "favicon": "/images/IMG_2753.jpeg"
 }
