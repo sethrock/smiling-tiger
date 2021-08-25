@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: The Rendezvous
-        subtitle: 90 minuet session with me Sera
+        subtitle: '90 minuet session with me, Sera!'
         title_align: left
         content: |
           ***
