@@ -17,7 +17,7 @@ sections:
 
           ### $900
 
-          for one hour, billed yearly
+          for one hour, b
 
           * Et semper leo mattis orci conubia congue
           * Quisque eleifend imperdiet tortor
