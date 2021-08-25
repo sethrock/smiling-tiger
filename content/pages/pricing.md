@@ -17,7 +17,7 @@ sections:
 
           ### $900
 
-          for one hour, 
+          for one hour, $300 Deposit Required
 
           * Et semper leo mattis orci conubia congue
           * Quisque eleifend imperdiet tortor
