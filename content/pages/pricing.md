@@ -12,17 +12,17 @@ sections:
       - title: The Introduction
         subtitle: 'One Hour 1 on ! with me! Sera :)'
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
           ### $900
 
-          one hour, $300 Deposit Required
+          one hour, Deposit Required
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
         content_align: left
         actions:
           - label: Start with Personal
