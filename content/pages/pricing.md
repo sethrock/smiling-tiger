@@ -55,18 +55,18 @@ sections:
       - title: Business
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### $1,500
 
-          per month, billed yearly
+          2 Hours, Deposit Required 
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
+          *   Feugiat porta tortor
         content_align: left
         actions:
           - label: Start with Business
