@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: A Session With Sera
-    subtitle: Optional hero section subtitle
+    subtitle: I Can't wait to meet you
     align: center
     padding_top: large
     padding_bottom: small
