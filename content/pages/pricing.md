@@ -17,7 +17,7 @@ sections:
 
           ### $900
 
-          for one hour, b
+          for one hour, 
 
           * Et semper leo mattis orci conubia congue
           * Quisque eleifend imperdiet tortor
