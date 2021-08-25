@@ -33,18 +33,18 @@ sections:
       - title: The Rendezvous
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### $1200
 
-          per month, billed yearly
+          90 Minuet Deposit Required
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Fringilla diam magnis libero lacinia
+          *   Litora primis facilisis ullamcorper per
         content_align: left
         actions:
           - label: Start with Premium
